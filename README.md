@@ -13,8 +13,6 @@
 <br>
 -1st Runner Up in Database Management System Lab
 <br>
--1st Runner Up in Database Management System Lab
-<br>
 -2nd Runner-up in Electronics Lab
 <br>
 
