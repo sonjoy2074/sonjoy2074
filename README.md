@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Innovator;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a final-year student pursuing a B.Sc in CSE, majoring in software engineering at United International University. I like to Code, Design, Innovate and Experiment with AI-based software products.</h4>
+<h4 align="center">I have completed my B.Sc in Computer Science and Engineering from United International University. I am passionate about coding, designing, and innovating AI-based software products, with a strong interest in areas like machine learning, deep learning, natural language processing, and computer vision.</h4>
 <br>
 
 
