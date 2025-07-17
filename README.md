@@ -8,8 +8,6 @@
 
 ## 💼 Work Experience
 
-- **AI Engineer** at **Softvence**, Dhaka, Bangladesh  
-  _May 2025 – Present_
 
 - **AI Developer Intern** at **LegoIO**, USA (Remote)  
   _Feb 2025 – May 2025_
