@@ -17,10 +17,10 @@
 ## 📚 Publications
 
 - **[E-MedViTR: Enhanced Vision Transformers with Registers for Biomedical Image Classification](https://ieeexplore.ieee.org/abstract/document/10534573)**  
-  **2024 6th International Conference on Electrical Engineering and Information (ICEEICT)**  
+  **IEE Xplore**  
 
 - **[An Ensemble Deep Learning Approach to Detect Common Chicken Diseases from Fecal Matter Images](https://dl.acm.org/doi/full/10.1145/3723178.3723198)**  
-  **3rd International Conference on Computing Advancements (ICCA 2024)**  
+  **ACM**  
 
 <br>
 
