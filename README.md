@@ -8,8 +8,10 @@
 
 ## 💼 Work Experience
 
-
-- **AI Developer Intern** at **LegoIO**, USA (Remote)  
+- **AI Engineer** at **Softvence**, Dhaka, Bangladesh  
+  _May 2025 - Present_
+  
+- **AI Developer Intern** at **LegoIO**, Maryland, USA (Remote)  
   _Feb 2025 – May 2025_
 
 <br>
@@ -20,7 +22,10 @@
   **IEEE Xplore**  
 
 - **[An Ensemble Deep Learning Approach to Detect Common Chicken Diseases from Fecal Matter Images](https://dl.acm.org/doi/full/10.1145/3723178.3723198)**  
-  **ACM**  
+  **ACM**
+  
+- **[Satellite-Based Environmental Monitoring for Sustainable Well-Being](https://link.springer.com/chapter/10.1007/978-981-96-4933-4_53)**  
+  **Springer Nature Link**
 
 <br>
 
